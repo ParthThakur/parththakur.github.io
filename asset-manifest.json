@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/parththakur.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/parththakur.github.io/static/js/main.246a445d.js",
-    "static/js/787.c13bb6de.chunk.js": "/parththakur.github.io/static/js/787.c13bb6de.chunk.js",
-    "static/media/logo.svg": "/parththakur.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/parththakur.github.io/index.html",
-    "main.073c9b0a.css.map": "/parththakur.github.io/static/css/main.073c9b0a.css.map",
-    "main.246a445d.js.map": "/parththakur.github.io/static/js/main.246a445d.js.map",
-    "787.c13bb6de.chunk.js.map": "/parththakur.github.io/static/js/787.c13bb6de.chunk.js.map"
+    "main.css": "/static/css/main.073c9b0a.css",
+    "main.js": "/static/js/main.39258995.js",
+    "static/js/787.c13bb6de.chunk.js": "/static/js/787.c13bb6de.chunk.js",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
+    "main.39258995.js.map": "/static/js/main.39258995.js.map",
+    "787.c13bb6de.chunk.js.map": "/static/js/787.c13bb6de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.246a445d.js"
+    "static/js/main.39258995.js"
   ]
 }
